@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <!-- ================================================== -->
+    <!-- Primary Backgrounds -->
+    <!-- ================================================== -->
     <color name="bg_primary">#0D0D0F</color>
+
+    <!-- ================================================== -->
+    <!-- Button Backgrounds -->
+    <!-- ================================================== -->
     <color name="bg_button_num">#1C1C21</color>
     <color name="bg_button_fn">#1A1A2A</color>
     <color name="bg_button_clear">#2A1A1A</color>
+
+    <!-- ================================================== -->
+    <!-- Accent Colors -->
+    <!-- ================================================== -->
     <color name="accent">#FF4D6D</color>
     <color name="accent_dim">#3D1020</color>
+
+    <!-- ================================================== -->
+    <!-- Text Colors -->
+    <!-- ================================================== -->
     <color name="text_primary">#F0F0F0</color>
     <color name="text_secondary">#888888</color>
     <color name="text_expr">#444444</color>
     <color name="text_fn">#9B8FFF</color>
+
+    <!-- ================================================== -->
+    <!-- Utility Colors -->
+    <!-- ================================================== -->
     <color name="divider">#1A1A1E</color>
     <color name="white">#FFFFFF</color>
     <color name="transparent">#00000000</color>
+
+    <!-- ================================================== -->
+    <!-- Optional Future Colors (Safe to Add) -->
+    <!-- ================================================== -->
+    <color name="success">#22C55E</color>
+    <color name="warning">#F59E0B</color>
+    <color name="error">#EF4444</color>
+    <color name="disabled">#555555</color>
+
 </resources>
