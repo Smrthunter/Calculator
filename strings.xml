@@ -1,29 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+
 <resources>
-    <string name="app_name">CalcPro</string>
-    <string name="btn_0">0</string>
-    <string name="btn_1">1</string>
-    <string name="btn_2">2</string>
-    <string name="btn_3">3</string>
-    <string name="btn_4">4</string>
-    <string name="btn_5">5</string>
-    <string name="btn_6">6</string>
-    <string name="btn_7">7</string>
-    <string name="btn_8">8</string>
-    <string name="btn_9">9</string>
-    <string name="btn_dot">.</string>
-    <string name="btn_add">+</string>
-    <string name="btn_sub">−</string>
-    <string name="btn_mul">×</string>
-    <string name="btn_div">÷</string>
-    <string name="btn_eq">=</string>
-    <string name="btn_clear">AC</string>
-    <string name="btn_neg">+/−</string>
-    <string name="btn_back">⌫</string>
-    <string name="btn_sqrt">√x</string>
-    <string name="btn_sq">x²</string>
-    <string name="btn_pct">%</string>
-    <string name="error_div_zero">⚠ Cannot divide by zero</string>
-    <string name="error_sqrt_neg">⚠ √ of negative</string>
-    <string name="error_invalid">⚠ Invalid input</string>
+    <string name="app_name">Calculator</string>
+    <string name="hint_number1">Enter first number</string>
+    <string name="hint_number2">Enter second number</string>
+
+    <string name="btn_add">Add</string>
+    <string name="btn_subtract">Subtract</string>
+    <string name="btn_multiply">Multiply</string>
+    <string name="btn_divide">Divide</string>
+
+    <string name="result">Result</string>
 </resources>
